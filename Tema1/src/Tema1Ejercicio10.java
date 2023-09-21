@@ -5,11 +5,11 @@ import java.util.Scanner;
     
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Introduce un valor entero");
+        System.out.println("Introduce un valor double");
 
         double a = in.nextDouble();
 
-        System.out.println("Introduce otro valor entero");
+        System.out.println("Introduce otro valor double");
 
         double b = in.nextDouble();
 

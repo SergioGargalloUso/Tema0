@@ -17,7 +17,7 @@ import java.util.Scanner;
 
         if( a > b ){
             
-            System.out.println("El valor 33" + a + " es mayo que" + b );
+            System.out.println("El valor " + a + " es mayo que" + b );
 
         }else if (a < b) {
             
